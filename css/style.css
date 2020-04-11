@@ -919,8 +919,8 @@ header .menu-button {
       display: inline-block;
       margin-bottom: 30px; }
       .page.section-home .banner-text .profile-img img {
-        width: 150px;
-        height: 150px;
+        width: 200px;
+        height: 200px;
         -webkit-border-radius: 50%;
         border-radius: 50%;
         border: 3px solid #dfdfdf; }
